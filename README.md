@@ -47,7 +47,7 @@ Currently seeking a long-term internship opportunity starting in February 2027.
 
 ## Featured Projects
 
-### [ResearchRadar](https://github.com/blgmstf332/ResearchRadar)
+### [ResearchRadar](https://github.com/blgmstf332/research-radar)
 Research trend detection and forecasting platform.
 
 *Data Science · Trend Analysis · Forecasting*
