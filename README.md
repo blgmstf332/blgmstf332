@@ -67,7 +67,7 @@ Machine learning regression project using feature engineering and Gradient Boost
 
 *Regression · Data Preprocessing · Machine Learning*
 
-### [Diabetes Classification](https://github.com/blgmstf332/Diabetes_Classification)
+### [Diabetes Classification](https://github.com/blgmstf332/diabetes-classification)
 Comparative analysis of machine learning classification algorithms.
 
 *Classification · Model Evaluation · Ensemble Learning*
