@@ -62,7 +62,7 @@ Real-time driver fatigue and distraction detection system.
 
 *Computer Vision · YOLOv8 · OpenCV · MediaPipe*
 
-### [Laptop Price Prediction](https://github.com/blgmstf332/Laptop-Price-Predict-Model)
+### [Laptop Price Prediction](https://github.com/blgmstf332/laptop-price-prediction)
 Machine learning regression project using feature engineering and Gradient Boosting.
 
 *Regression · Data Preprocessing · Machine Learning*
