@@ -57,7 +57,7 @@ Multilingual short-text language detection using TF-IDF and Logistic Regression.
 
 *NLP · Text Classification · Scikit-learn*
 
-### [Driver Monitoring System](https://github.com/blgmstf332/Driver_control_system)
+### [Driver Monitoring System](https://github.com/blgmstf332/driver-monitoring-system)
 Real-time driver fatigue and distraction detection system.
 
 *Computer Vision · YOLOv8 · OpenCV · MediaPipe*
