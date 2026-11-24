@@ -52,7 +52,7 @@ Research trend detection and forecasting platform.
 
 *Data Science · Trend Analysis · Forecasting*
 
-### [LinguaLens](https://github.com/blgmstf332/language-detection-project)
+### [LinguaLens](https://github.com/blgmstf332/lingualens)
 Multilingual short-text language detection using TF-IDF and Logistic Regression.
 
 *NLP · Text Classification · Scikit-learn*
